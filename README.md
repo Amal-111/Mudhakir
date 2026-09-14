@@ -41,7 +41,7 @@ The project followed a user-centered design process that included:
 
 The interactive prototype was designed using Figma.
 
-[View Figma Prototype]((https://www.figma.com/proto/rKY41QOpTrv5C9PN6oNDEK/Mudhakir-edu?node-id=4-297&t=qZpcwqUPffdGlccC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A297)
+[View Figma Prototype](https://www.figma.com/proto/rKY41QOpTrv5C9PN6oNDEK/Mudhakir-edu?node-id=4-297&t=qZpcwqUPffdGlccC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=4%3A297)
 
 ## Demo Video
 
